@@ -964,3 +964,11 @@ class SecureZipExtractor
 + ✅ Allows retrying with a new password if extraction fails due to an incorrect password.
 + ✅ Logs errors to error.log instead of cluttering the console.
 + ✅ Prevents extraction if the ZIP is corrupt or missing.
+
+# References
+* https://github.com/gtechsltn/NET9_SecureWebApp
+* https://github.com/gtechsltn/NET48_WinSvc_DataExport
+* https://github.com/gtechsltn/SqlCommandTimeout
+* https://github.com/gtechsltn/ConsoleApp_Log4Net
+* https://github.com/gtechsltn/SqlServerInsertFiles
+* https://github.com/gtechsltn/ConsoleApp_SharpZipLib
